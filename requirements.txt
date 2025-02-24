@@ -1,0 +1,2 @@
+
+myfitnesspal  # https://python-myfitnesspal.readthedocs.io/en/latest/getting_started.html#installation
